@@ -30,7 +30,11 @@
     <br>
 
     <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
+       <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
+    <br>
+
+    <label for="uncle"><b>uncle Name</b></label>
+    <input type="text" placeholder="uncle Name" name="uncle" id="uncle" required>
     <br>
 
     <label for="email"><b>Email</b></label>
